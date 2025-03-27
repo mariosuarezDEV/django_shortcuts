@@ -1,1 +1,0 @@
-# Paquete de python que contiene las funciones de atajos para Django
